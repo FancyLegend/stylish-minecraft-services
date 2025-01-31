@@ -47,7 +47,7 @@ export function PurchaseDialog({ open, onOpenChange, title, price }: PurchaseDia
             <Button variant="outline" className="w-full justify-start" asChild>
               <a href="https://vk.com/yourusername" target="_blank" rel="noopener noreferrer">
                 <MessagesSquare className="mr-2" />
-                VKontakte
+                ВКонтакте
               </a>
             </Button>
             <Button variant="outline" className="w-full justify-start" asChild>
